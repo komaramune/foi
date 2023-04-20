@@ -1,0 +1,5 @@
+{
+    "villager_trade2":{"category": "master","sounds": ["minecraft:mob/villager/haggle2"]},
+    "villager_idle3":{"category": "master","sounds": ["minecraft:mob/villager/idle3"]},
+    "villager_accept3":{"category": "master","sounds": ["minecraft:mob/villager/yes3"]}
+}

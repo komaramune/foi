@@ -1,0 +1,13 @@
+{
+    "providers": [
+        {
+            "type": "bitmap",
+            "file": "misekoma:font/foi.png",
+            "ascent": 84,
+            "height": 128,
+            "chars": [
+                "\uE201"
+            ]
+        }
+    ]
+}
